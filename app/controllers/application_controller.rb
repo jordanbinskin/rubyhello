@@ -6,6 +6,6 @@ class ApplicationController < ActionController::Base
   end
 
   def bye
-    render html: "Goodbye!"
+    render html: "Yas!"
   end
 end
